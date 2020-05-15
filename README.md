@@ -1,7 +1,8 @@
 
 ## Cocktails demo
-App for train and show own skill in Flutter
-App use data from [this open api](https://www.thecocktaildb.com/)
+App for training and showing my skills in Flutter.
+
+App uses data from [this open api](https://www.thecocktaildb.com/).
 
 ![](./preview/home_transforms.gif)
 
